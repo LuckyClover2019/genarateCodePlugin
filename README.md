@@ -1,0 +1,2 @@
+# genarateCodePlugin
+genarateCode
